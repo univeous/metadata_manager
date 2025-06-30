@@ -4,7 +4,7 @@ extends EditorPlugin
 const InspectorPluginScript = preload("res://addons/metadata_manager/metadata_inspector_plugin.gd")
 var inspector_plugin_instance
 
-const SETTING_PATH = "plugins/metadata_manager/template_script_path"
+const SETTING_PATH = "addons/metadata_manager/template_script_path"
 const DEFAULT_TEMPLATE_PATH = "res://metadata_definitions.gd"
 
 func _enter_tree():

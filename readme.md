@@ -74,7 +74,7 @@ func get_all_templates() -> Dictionary:
     }
 ```
 
-You can customize this file to fit your project's needs. The path to this file can be changed in **Project -> Project Settings -> Plugins -> Metadata Manager**.
+You can customize this file to fit your project's needs. The path to this file can be changed in **Project -> Project Settings -> Addons -> Metadata Manager**.
 
 ### 3. Using the Manager
 
