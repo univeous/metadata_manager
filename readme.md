@@ -1,3 +1,5 @@
+
+<img src="icon.png" width="128" height="128">
 # Metadata Manager for Godot 4
 
 A simple but powerful plugin for Godot 4 to streamline the management of node metadata. It allows you to pre-define metadata templates and then quickly add, edit, or remove them on any node through a dedicated UI in the Inspector.
