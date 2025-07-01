@@ -79,7 +79,7 @@ You can customize this file to fit your project's needs. The path to this file c
 ### 3. Using the Manager
 
 1.  Select any node in your scene (e.g., a `Button`).
-2.  If the node's type matches one of the `applicable_types` in your template file, a new foldable section will appear at the bottom of the Inspector.
+2.  If the node's type matches one of the `applicable_types` in your template file, a new foldable section will appear at the top of the Inspector.
 3.  From here, you can:
     *   Click the **`+`** button to add a piece of metadata with its default value.
     *   Edit the value of existing metadata using the provided controls.
