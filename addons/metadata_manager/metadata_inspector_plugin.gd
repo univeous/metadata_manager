@@ -12,7 +12,7 @@ func _can_handle(_object): return true
 func _parse_begin(object: Object):
 	if not object is Node: return
 	edited_object = object
-	var script_path = ProjectSettings.get_setting("plugins/metadata_manager/template_script_path", "")
+	var script_path = ProjectSettings.get_setting("addons/metadata_manager/template_script_path", "")
 	if script_path.is_empty() or not ResourceLoader.exists(script_path): return
 	var script_resource = load(script_path)
 	if not script_resource or not script_resource.can_instantiate(): return
