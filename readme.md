@@ -36,7 +36,7 @@ Repeating this process for dozens of nodes is tedious and error-prone. This plug
 
 1.  Download this repository and place the `addons/metadata_manager` folder inside your Godot project's `addons` directory.
 2.  Open your Godot project.
-3.  Go to **Project -> Project Settings -> Plugins**.
+3.  Go to **Project -> Project Settings -> Addons**.
 4.  Find "Metadata Manager" in the list and change its status from "Disabled" to **"Enabled"**.
 
 ### 2. The Template File
